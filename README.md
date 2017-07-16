@@ -8,3 +8,13 @@ A weekend I kept saying "do not touch my ruby, do not touch my love for my ruby!
 This repo, this code is filled with love, desire and longing ... <3 
 
 ~ happy gaming
+# usage
+
+## on macOS
+
+```
+brew install sdl2
+```
+```
+gem install gosu
+```
