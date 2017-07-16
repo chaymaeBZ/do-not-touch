@@ -18,3 +18,13 @@ brew install sdl2
 ```
 gem install gosu
 ```
+
+# Play!
+
+```
+cd do-not-touch
+```
+
+```ruby
+ruby main.rb
+```
