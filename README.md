@@ -16,7 +16,10 @@ This repo, this code is filled with love, desire and longing ... <3
 brew install sdl2
 ```
 ```
-gem install gosu
+gem install bundler
+```
+```
+bundle install
 ```
 
 # Play!
