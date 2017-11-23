@@ -1,5 +1,7 @@
 # do-not-touch
 
+Uncompleted yet
+
 This a ruby version of the game "don't touch the spikes"
 
 I had the idea to develop this game after being separated from my lovely ruby a couple weeks. 
